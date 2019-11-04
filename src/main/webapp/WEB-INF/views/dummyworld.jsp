@@ -7,7 +7,7 @@
 </head>
 <body>
 	<center>
-		<h2>Dummy Application</h2>
+		<h2>Demo Application</h2>
 		<h2>
 			${message} ${name}
 		</h2>
